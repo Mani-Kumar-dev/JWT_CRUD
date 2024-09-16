@@ -90,9 +90,9 @@ WSGI_APPLICATION = 'JWT_auth.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'database-1',
-        'USER': 'admin2',
-        'PASSWORD': 'Admin$1149',
+        'NAME': 'database1',
+        'USER': 'admin123',
+        'PASSWORD': 'Admin$123',
         'HOST': 'database-1.c3aymi0mk1ut.ap-south-2.rds.amazonaws.com',
         'PORT': '3306',
     }

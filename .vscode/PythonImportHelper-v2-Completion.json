@@ -290,7 +290,7 @@
         "kind": 5,
         "importPath": "JWT_auth.JWT_auth.settings",
         "description": "JWT_auth.JWT_auth.settings",
-        "peekOfCode": "WSGI_APPLICATION = 'JWT_auth.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'database-1',\n        'USER': 'admin2',\n        'PASSWORD': 'Admin$1149',\n        'HOST': 'database-1.c3aymi0mk1ut.ap-south-2.rds.amazonaws.com',",
+        "peekOfCode": "WSGI_APPLICATION = 'JWT_auth.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'database1',\n        'USER': 'admin123',\n        'PASSWORD': 'Admin$123',\n        'HOST': 'database-1.c3aymi0mk1ut.ap-south-2.rds.amazonaws.com',",
         "detail": "JWT_auth.JWT_auth.settings",
         "documentation": {}
     },
@@ -299,7 +299,7 @@
         "kind": 5,
         "importPath": "JWT_auth.JWT_auth.settings",
         "description": "JWT_auth.JWT_auth.settings",
-        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'database-1',\n        'USER': 'admin2',\n        'PASSWORD': 'Admin$1149',\n        'HOST': 'database-1.c3aymi0mk1ut.ap-south-2.rds.amazonaws.com',\n        'PORT': '3306',\n    }\n}",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'database1',\n        'USER': 'admin123',\n        'PASSWORD': 'Admin$123',\n        'HOST': 'database-1.c3aymi0mk1ut.ap-south-2.rds.amazonaws.com',\n        'PORT': '3306',\n    }\n}",
         "detail": "JWT_auth.JWT_auth.settings",
         "documentation": {}
     },
